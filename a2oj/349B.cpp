@@ -39,6 +39,9 @@ int main() {
  
 	long long int frequentDigit = mp[finalArr[0]], freq = n/finalArr[0], leftOver = n%finalArr[0], costToPaint = v[frequentDigit-1];
 
+	/
+
+	//11111111
 	// cout << "frequentDigit: " << frequentDigit << " freq: " << freq << " leftOver: " << leftOver << " costToPaint: " << costToPaint << endl;
 
 	// for(int i=finalArr.size()-1;i>=0;i--) {
